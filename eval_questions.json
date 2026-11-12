@@ -1,0 +1,26 @@
+[
+  {
+    "question": "REPLACE with a question your PDF answers clearly",
+    "type": "answerable",
+    "expected_keywords": ["REPLACE", "1 to 3 distinctive words or numbers from the correct answer"],
+    "expected_page": null
+  },
+  {
+    "question": "REPLACE with a second question your PDF answers clearly",
+    "type": "answerable",
+    "expected_keywords": ["REPLACE"],
+    "expected_page": null
+  },
+  {
+    "question": "What is the capital of France?",
+    "type": "unanswerable"
+  },
+  {
+    "question": "Who won the 2018 football World Cup?",
+    "type": "unanswerable"
+  },
+  {
+    "question": "How do I bake sourdough bread?",
+    "type": "unanswerable"
+  }
+]

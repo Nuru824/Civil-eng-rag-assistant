@@ -1,0 +1,19 @@
+# Secrets
+.env
+*.env
+
+# Local vector database (rebuilt at startup)
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS files
+.DS_Store
+
+# PDFs: not committed (licenses differ); keep the folder with its note
+pdfs/*.pdf
+!pdfs/README.txt
