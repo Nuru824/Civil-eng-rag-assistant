@@ -1,15 +1,15 @@
 [
   {
-    "question": "REPLACE with a question your PDF answers clearly",
+    "question": "What are the causes of damage to concrete?",
     "type": "answerable",
-    "expected_keywords": ["REPLACE", "1 to 3 distinctive words or numbers from the correct answer"],
-    "expected_page": null
+    "expected_keywords": ["Design and construction defects", "Foundation movement", "poor quality concrete"],
+    "expected_page": 32
   },
   {
-    "question": "REPLACE with a second question your PDF answers clearly",
+    "question": "What is Shotcrete?",
     "type": "answerable",
-    "expected_keywords": ["REPLACE"],
-    "expected_page": null
+    "expected_keywords": ["gunite application"],
+    "expected_page": [56, 323, 159, 156]
   },
   {
     "question": "What is the capital of France?",
