@@ -98,3 +98,9 @@ The PDFs are not included in this repository. List each document here with its p
 
 ## Tech stack
 Python, sentence-transformers, ChromaDB, Google Gemini API, Gradio, FastAPI, Docker, pypdf.
+
+https://github.com/user-attachments/assets/b71fe5c2-d857-4298-b7bf-94b0d5850bd1
+
+
+
+
